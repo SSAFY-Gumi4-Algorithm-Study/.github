@@ -1,2 +1,2 @@
-스터디원
+스터디원 <br>
 [최영은](https://github.com/SSAFY-Gumi4-Algorithm-Study/algorithm-ye)
