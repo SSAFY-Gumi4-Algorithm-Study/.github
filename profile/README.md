@@ -15,7 +15,7 @@
 | 📂 김도영 | 📂 윤진원 |
 | *(잔디 추가 예정)* | ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dnj1510&theme=warm) |
 | 📂 [최영은](https://github.com/SSAFY-Gumi4-Algorithm-Study/algorithm-ye) | 📂 황효주 |
-| ![mazandi profile](http://mazandi.herokuapp.com/api?handle=y_e_99&theme=warm) | *(잔디 추가 예정)* |
+| ![mazandi profile](http://mazandi.herokuapp.com/api?handle=y_e_99&theme=warm) | ![mazandi profile](http://mazandi.herokuapp.com/api?handle=qorwns2021&theme=warm) |
 
 <br>
 
