@@ -23,7 +23,7 @@
 
 | 주차 | 문제 번호 | 난이도 | 문제 |
 |:--:|:--:|:--:|:--:|
-| 8월 1주차 | 1012 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [숨바꼭질](https://www.acmicpc.net/problem/1012) |
+| 8월 1주차 | 1012 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [유기농 배추](https://www.acmicpc.net/problem/1012) |
 
 
 <br>
