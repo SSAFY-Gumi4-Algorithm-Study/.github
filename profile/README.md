@@ -13,9 +13,18 @@
 | | |
 |:--:|:--:|
 | 📂 김도영 | 📂 윤진원 |
-| *(잔디 추가 예정)* | ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dnj1510&theme=warm) |
+| ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kwat1&theme=warm) | ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dnj1510&theme=warm) |
 | 📂 [최영은](https://github.com/SSAFY-Gumi4-Algorithm-Study/algorithm-ye) | 📂 황효주 |
 | ![mazandi profile](http://mazandi.herokuapp.com/api?handle=y_e_99&theme=warm) | ![mazandi profile](http://mazandi.herokuapp.com/api?handle=qorwns2021&theme=warm) |
+
+<br>
+
+## 📌 공통 문제
+
+| 주차 | 문제 번호 | 난이도 | 문제 |
+|:--:|:--:|:--:|:--:|
+| 8월 1주차 | 1012 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [숨바꼭질](https://www.acmicpc.net/problem/1012) |
+
 
 <br>
 
