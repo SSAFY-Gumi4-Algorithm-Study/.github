@@ -31,7 +31,7 @@
 | 9월 1주차 | 14503 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [로봇 청소기](https://www.acmicpc.net/problem/14503) |
 | 9월 2주차 | 16930 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/18.svg"/> | [달리기](https://www.acmicpc.net/problem/16930) |
 | 9월 3주차 | 15486 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [퇴사 2](https://www.acmicpc.net/problem/15486) |
-
+| 9월 4주차 | 2533 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) |
 <br>
 
 ## 📅 진행 방식
