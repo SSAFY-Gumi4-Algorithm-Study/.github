@@ -10,11 +10,10 @@
 -->
 
 ## 📁 스터디원
-| | |
+| 📂 [이용문](https://github.com/SSAFY-Gumi4-Algorithm-Study/) | 📂 [윤진원](https://github.com/SSAFY-Gumi4-Algorithm-Study/yungorithm)|
 |:--:|:--:|
-| 📂 [김도영](https://github.com/SSAFY-Gumi4-Algorithm-Study/Dogorithm) | 📂 [윤진원](https://github.com/SSAFY-Gumi4-Algorithm-Study/yungorithm)|
-| ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kwat1&theme=warm) | ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dnj1510&theme=warm) |
-| 📂 [최영은](https://github.com/SSAFY-Gumi4-Algorithm-Study/choigorithm) | 📂 [황효주](https://github.com/SSAFY-Gumi4-Algorithm-Study/hyogorithm) |
+| ![mazandi profile](http://mazandi.herokuapp.com/api?handle=cocoyi00&theme=warm) | ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dnj1510&theme=warm) |
+| **📂 [최영은](https://github.com/SSAFY-Gumi4-Algorithm-Study/choigorithm)** | **📂 [황효주](https://github.com/SSAFY-Gumi4-Algorithm-Study/hyogorithm)** |
 | ![mazandi profile](http://mazandi.herokuapp.com/api?handle=y_e_99&theme=warm) | ![mazandi profile](http://mazandi.herokuapp.com/api?handle=gywn83&theme=warm) |
 
 <br>
@@ -138,7 +137,7 @@
  ┣ 📂Essential
  ┃ ┗ 📜유기농배추.java
  ┣ 📂Bronze
- ┃ ┗ 📜숨바꼭질.java
+ ┃ ┗ 📜백설공주와일곱난쟁이.java
  ┣ 📂Silver
  ┃ ┗ 📜구간합구하기4.java
  ┣ 📂Gold
@@ -169,3 +168,15 @@ PR 제목은 브랜치명과 동일하게 작성합니다. <br>
 
 5. 머지 <br>
 리뷰가 끝나면 PR을 Merge 합니다. <br>
+
+---
+
+<details>
+  <summary>🏅 명예 스터디원</summary>
+  
+ 
+  | 📂 [김도영](https://github.com/SSAFY-Gumi4-Algorithm-Study/Dogorithm) |
+  |:--:|
+  | ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kwat1&theme=warm) |
+
+</details>
