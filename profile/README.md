@@ -10,7 +10,7 @@
 -->
 
 ## 📁 스터디원
-| 📂 [이용문](https://github.com/SSAFY-Gumi4-Algorithm-Study/) | 📂 [윤진원](https://github.com/SSAFY-Gumi4-Algorithm-Study/yungorithm)|
+| 📂 [이용문](https://github.com/SSAFY-Gumi4-Algorithm-Study/mungorithm) | 📂 [윤진원](https://github.com/SSAFY-Gumi4-Algorithm-Study/yungorithm)|
 |:--:|:--:|
 | ![mazandi profile](http://mazandi.herokuapp.com/api?handle=cocoyi00&theme=warm) | ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dnj1510&theme=warm) |
 | **📂 [최영은](https://github.com/SSAFY-Gumi4-Algorithm-Study/choigorithm)** | **📂 [황효주](https://github.com/SSAFY-Gumi4-Algorithm-Study/hyogorithm)** |
