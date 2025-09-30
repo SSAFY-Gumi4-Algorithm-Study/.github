@@ -33,8 +33,8 @@
 | 9월 4주차  | 2533  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) |
 | 10월 1주차 | 16236 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [아기 상어](https://www.acmicpc.net/problem/16236) |
 | 10월 2주차 | -     | - | **✿ 즐거운 추석 연휴 보내세요 ✿** |
-| 10월 3주차  | 20056 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) |
-| 10월 4주차  | 21608 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [상어 초등학교](https://www.acmicpc.net/problem/21608) |
+| 10월 3주차  | 20056 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) |
+| 10월 4주차  | 21608 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [상어 초등학교](https://www.acmicpc.net/problem/21608) |
 
 <br>
 
