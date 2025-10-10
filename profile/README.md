@@ -5,10 +5,6 @@
 
 <br>
 
-<!-- 
-📂 김도영 📂 윤진원 📂 [최영은](https://github.com/SSAFY-Gumi4-Algorithm-Study/algorithm-ye) 📂 황효주
--->
-
 ## 📁 스터디원
 | 📂 [이용문](https://github.com/SSAFY-Gumi4-Algorithm-Study/mungorithm) | 📂 [윤진원](https://github.com/SSAFY-Gumi4-Algorithm-Study/yungorithm)|
 |:--:|:--:|
@@ -76,7 +72,9 @@
 ## 💸 패널티
 
 * **미제출 시 패널티**: 5,000원
-* **월차:** 한 달에 1회 사용 가능 (최소 이틀 전 공유 필수)
+* **월차:** 한 달에 1회 사용 가능 (최소 이틀 전 공유 필수)  
+
+패널티를 낸 이후 **일주일 내에** 해당 과제를 모두 완료하지 못할 경우, **추가로 5,000원의 벌금이 부과됩니다.**
 
 <br>
 
